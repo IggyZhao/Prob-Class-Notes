@@ -1,6 +1,7 @@
 # MITx-6.431x_Probability-The-Science_of_Uncertainty_and_Data
 Probability-The Science_of_Uncertainty_and_Data taught by the Institute for Data, Systems, and Society (IDSS) MIT faculty Professor John Tsitsiklis
 
+[Credential Link](https://credentials.edx.org/records/programs/shared/dd1f16009d8e4e54a762ce4a07020f45/) 
 
 ![](MIT%20certificate.PNG)
 
